@@ -2,7 +2,7 @@
 
 <br>
 
-### PHP/HTML/CSS 
+### JS/HTML/CSS 
 
 <br><br>
 
