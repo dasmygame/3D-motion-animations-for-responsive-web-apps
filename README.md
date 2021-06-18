@@ -1,5 +1,5 @@
 # 3D-motion-animations-for-responsive-web-apps
-<br><br>
+<br>
 ## PHP/HTML/CSS 
 
 ## 3d animated bubble made for a client that appear when homepage is visited. They are looped to appear repeatedly when viewing the homepage, and they have 3d motion capabilities depending on the configuration. 
