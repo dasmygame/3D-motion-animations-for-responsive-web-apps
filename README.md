@@ -21,4 +21,4 @@ Can be added to any sitebuilder including Elementor (WP as widget) and React Sta
 # Partners
 
 > Andrea Masters ©
-> Perdue Vision ©
+>> Perdue Vision ©
