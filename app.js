@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './animation.css'; // Tell webpack that Button.js uses these styles
+import './animate.css'; // Tell webpack that Button.js uses these styles
 
 class Button extends Component {
   render() { 
