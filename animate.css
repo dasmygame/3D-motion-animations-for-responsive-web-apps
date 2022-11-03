@@ -2,7 +2,9 @@
 	display:none;
 	opacity:0;
 }
+
 /*Fonts*/
+
 h1,h2,h3,h4,h5,h6{
 	font-weight: bold;
 	font-family: "Nunito", Sans-serif;
@@ -13,7 +15,9 @@ h1,h2,h3,h4,h5,h6{
 a.pink{
 	color:#C3286A !important;
 }
-/*Bubblessssss*/
+
+/*Bubbles*/
+
 body {
 	height: 100vh;
 	margin: 0;
@@ -22,7 +26,7 @@ body {
 }
 
 #background-wrap {
-    bottom: 0;
+    	bottom: 0;
 	left: 0;
 	position: fixed;
 	right: 0;
@@ -34,6 +38,7 @@ body {
 .negative-z{
 	z-index:1;
 }
+
 /* KEYFRAMES */
 
 @-webkit-keyframes animateBubble {
@@ -93,7 +98,7 @@ body {
 /* ANIMATIONS */
 
 .x1 {
-    -webkit-animation: animateBubble 25s linear infinite, sideWays 2s ease-in-out infinite alternate;
+    	-webkit-animation: animateBubble 25s linear infinite, sideWays 2s ease-in-out infinite alternate;
 	-moz-animation: animateBubble 25s linear infinite, sideWays 2s ease-in-out infinite alternate;
 	animation: animateBubble 25s linear infinite, sideWays 2s ease-in-out infinite alternate;
 	
@@ -106,7 +111,7 @@ body {
 }
 
 .x2 {
-    -webkit-animation: animateBubble 20s linear infinite, sideWays 4s ease-in-out infinite alternate;
+    	-webkit-animation: animateBubble 20s linear infinite, sideWays 4s ease-in-out infinite alternate;
 	-moz-animation: animateBubble 20s linear infinite, sideWays 4s ease-in-out infinite alternate;
 	animation: animateBubble 20s linear infinite, sideWays 4s ease-in-out infinite alternate;
 	
@@ -119,7 +124,7 @@ body {
 }
 
 .x3 {
-    -webkit-animation: animateBubble 28s linear infinite, sideWays 2s ease-in-out infinite alternate;
+    	-webkit-animation: animateBubble 28s linear infinite, sideWays 2s ease-in-out infinite alternate;
 	-moz-animation: animateBubble 28s linear infinite, sideWays 2s ease-in-out infinite alternate;
 	animation: animateBubble 28s linear infinite, sideWays 2s ease-in-out infinite alternate;
 	
@@ -132,7 +137,7 @@ body {
 }
 
 .x4 {
-    -webkit-animation: animateBubble 22s linear infinite, sideWays 3s ease-in-out infinite alternate;
+    	-webkit-animation: animateBubble 22s linear infinite, sideWays 3s ease-in-out infinite alternate;
 	-moz-animation: animateBubble 22s linear infinite, sideWays 3s ease-in-out infinite alternate;
 	animation: animateBubble 22s linear infinite, sideWays 3s ease-in-out infinite alternate;
 	
@@ -145,7 +150,7 @@ body {
 }
 
 .x5 {
-    -webkit-animation: animateBubble 29s linear infinite, sideWays 4s ease-in-out infinite alternate;
+    	-webkit-animation: animateBubble 29s linear infinite, sideWays 4s ease-in-out infinite alternate;
 	-moz-animation: animateBubble 29s linear infinite, sideWays 4s ease-in-out infinite alternate;
 	animation: animateBubble 29s linear infinite, sideWays 4s ease-in-out infinite alternate;
 	
@@ -158,7 +163,7 @@ body {
 }
 
 .x6 {
-    -webkit-animation: animateBubble 21s linear infinite, sideWays 2s ease-in-out infinite alternate;
+   	-webkit-animation: animateBubble 21s linear infinite, sideWays 2s ease-in-out infinite alternate;
 	-moz-animation: animateBubble 21s linear infinite, sideWays 2s ease-in-out infinite alternate;
 	animation: animateBubble 21s linear infinite, sideWays 2s ease-in-out infinite alternate;
 	
@@ -171,7 +176,7 @@ body {
 }
 
 .x7 {
-    -webkit-animation: animateBubble 20s linear infinite, sideWays 2s ease-in-out infinite alternate;
+    	-webkit-animation: animateBubble 20s linear infinite, sideWays 2s ease-in-out infinite alternate;
 	-moz-animation: animateBubble 20s linear infinite, sideWays 2s ease-in-out infinite alternate;
 	animation: animateBubble 20s linear infinite, sideWays 2s ease-in-out infinite alternate;
 	
@@ -184,7 +189,7 @@ body {
 }
 
 .x8 {
-    -webkit-animation: animateBubble 22s linear infinite, sideWays 3s ease-in-out infinite alternate;
+    	-webkit-animation: animateBubble 22s linear infinite, sideWays 3s ease-in-out infinite alternate;
 	-moz-animation: animateBubble 22s linear infinite, sideWays 3s ease-in-out infinite alternate;
 	animation: animateBubble 22s linear infinite, sideWays 3s ease-in-out infinite alternate;
 	
@@ -197,7 +202,7 @@ body {
 }
 
 .x9 {
-    -webkit-animation: animateBubble 29s linear infinite, sideWays 4s ease-in-out infinite alternate;
+    	-webkit-animation: animateBubble 29s linear infinite, sideWays 4s ease-in-out infinite alternate;
 	-moz-animation: animateBubble 29s linear infinite, sideWays 4s ease-in-out infinite alternate;
 	animation: animateBubble 29s linear infinite, sideWays 4s ease-in-out infinite alternate;
 	
@@ -210,7 +215,7 @@ body {
 }
 
 .x10 {
-    -webkit-animation: animateBubble 26s linear infinite, sideWays 2s ease-in-out infinite alternate;
+    	-webkit-animation: animateBubble 26s linear infinite, sideWays 2s ease-in-out infinite alternate;
 	-moz-animation: animateBubble 26s linear infinite, sideWays 2s ease-in-out infinite alternate;
 	animation: animateBubble 26s linear infinite, sideWays 2s ease-in-out infinite alternate;
 	
@@ -232,7 +237,7 @@ body {
 	-moz-box-shadow: 0 20px 30px rgba(0, 0, 0, 0.2), inset 0px 10px 30px 5px rgba(255, 255, 255, 1);
 	box-shadow: 0 20px 30px rgba(0, 0, 0, 0.2), inset 0px 10px 30px 5px rgba(255, 255, 255, 1);
 	background:rgba(110,228,234,.25);
-    height: 200px;
+    	height: 200px;
 	position: absolute;
 	width: 200px;
 }
@@ -260,7 +265,9 @@ body {
 	position: absolute;
 	width: 180px;
 }
+
 /*Pulse*/
+
 .bubbles {
   width: 120px;
   animation: pulse 2s ease-in infinite alternate;
@@ -275,10 +282,12 @@ body {
   }
 }
 div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-17fc818 > div > div > div > img{
-	border:10px solid white;
+	    border:10px solid white;
 	    box-shadow: 0px 0px 17px 10px rgb(0 0 0 / 15%);
 }
+
 /*Float Links*/
+
 .hvr-float {
   display: inline-block;
   vertical-align: middle;
@@ -296,99 +305,115 @@ div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.ele
   -webkit-transform: translateY(-8px);
   transform: translateY(-8px);
 }
+
 /*Toggle Titles*/
+
 ul.service-list{
 	padding-left:10px;
 	list-style-type:none;
 }
 ul.service-list li:before{
 	content: "\f00c";
-font-family: "Font Awesome 5 Free";
-    font-weight: 900;
+	font-family: "Font Awesome 5 Free";
+    	font-weight: 900;
 	color:#c3286a;
 	display: inline-block; /* Needed to add space between the bullet and the text */
-  width: 1.25em; /* Also needed for space (tweak if needed) */
-  margin-left: -1.25em; /* Also needed for space (tweak if needed) */
+  	width: 1.25em; /* Also needed for space (tweak if needed) */
+  	margin-left: -1.25em; /* Also needed for space (tweak if needed) */
 	font-size:15px;
 }
+
 /*Sub Menu Indicator*/
+
 .elementor-nav-menu .sub-arrow i {
     color: #C3286A;
 }
+
 /*Rotate*/
+
 .rotate{
 	transform: rotate(5deg);
 }
+
 /*Gradient Titles*/
+
 .gradient-title-left.elementor-widget.elementor-widget-heading:before{
 	content:"";
 	position: absolute;
-width: 100px;
-height: 5px;
-top: 40%;
- left: 150px;
-background: linear-gradient(90deg, #ADE8F0 50%, #EDEDED 83%);
+	width: 100px;
+	height: 5px;
+	top: 40%;
+ 	left: 150px;
+	background: linear-gradient(90deg, #ADE8F0 50%, #EDEDED 83%);
 }
 .gradient-title-left-sidebar.elementor-widget.elementor-widget-heading:before{
 	content:"";
 	position: absolute;
-width: 100px;
-height: 5px;
-top: 40%;
- left: 150px;
-background: linear-gradient(90deg, #ADE8F0 50%, #ffffff 83%);
+	width: 100px;
+	height: 5px;
+	top: 40%;
+ 	left: 150px;
+	background: linear-gradient(90deg, #ADE8F0 50%, #ffffff 83%);
 }
+
 /*Gradient left right*/
+
 .gradient-title-left-right.elementor-widget.elementor-widget-heading:before {
 	content:"";
 	position: absolute;
-width: 100px;
-height: 5px;
-top: 40%;
- left: -120px;
-background: linear-gradient(90deg, #ADE8F0 50%, #FFFFFF 83%);
-transform: matrix(-1, 0, 0, 1, 0, 0);
+	width: 100px;
+	height: 5px;
+	top: 40%;
+ 	left: -120px;
+	background: linear-gradient(90deg, #ADE8F0 50%, #FFFFFF 83%);
+	transform: matrix(-1, 0, 0, 1, 0, 0);
 }
 .gradient-title-left-right.elementor-widget.elementor-widget-heading:after{
 	content:"";
 	position: absolute;
-width: 100px;
-height: 5px;
-top: 40%;
- right: -120px;
-background: linear-gradient(90deg, #ADE8F0 50%, #FFFFFF 83%);
+	width: 100px;
+	height: 5px;
+	top: 40%;
+ 	right: -120px;
+	background: linear-gradient(90deg, #ADE8F0 50%, #FFFFFF 83%);
 }
+
 /*Gradient Testimonials*/
+
 .gradient-testimonials-left-right.elementor-widget.elementor-widget-heading:before{
 	content:"";
 	position: absolute;
-width: 100px;
-height: 5px;
-top: 40%;
- left: -120px;
-background: linear-gradient(90deg, #ADE8F0 50%, #024C67 83%);
-transform: matrix(-1, 0, 0, 1, 0, 0);
+	width: 100px;
+	height: 5px;
+	top: 40%;
+ 	left: -120px;
+	background: linear-gradient(90deg, #ADE8F0 50%, #024C67 83%);
+	transform: matrix(-1, 0, 0, 1, 0, 0);
 }
 .gradient-testimonials-left-right.elementor-widget.elementor-widget-heading:after{
 	content:"";
 	position: absolute;
-width: 100px;
-height: 5px;
-top: 40%;
- right: -120px;
-background: linear-gradient(90deg, #ADE8F0 50%, #024C67 83%);
+	width: 100px;
+	height: 5px;
+	top: 40%;
+ 	right: -120px;
+	background: linear-gradient(90deg, #ADE8F0 50%, #024C67 83%);
 }
+
 /*Gradient*/
+
 .gradient-title-left-white.elementor-widget.elementor-widget-heading:after{
 	content:"";
 	position: absolute;
-width: 100px;
-height: 5px;
-top: 40%;
- right: -110px;
+	width: 100px;
+	height: 5px;
+	top: 40%;
+ 	right: -110px;
 background: linear-gradient(90deg, #ADE8F0 50%, #FFFFFF 83%);
 }
+
 /*testimonials*/
+
 .swiper-pagination-bullet {
     width: 20px;
     height: 7px;
@@ -401,7 +426,9 @@ background: linear-gradient(90deg, #ADE8F0 50%, #FFFFFF 83%);
 span.swiper-pagination-bullet.swiper-pagination-bullet-active{
 	background: #C3286A !important;
 }
+
 /*Apply Form*/
+
 .with_frm_style .frm_repeat_buttons {
     clear: both;
     float: right;
@@ -421,7 +448,7 @@ span.swiper-pagination-bullet.swiper-pagination-bullet-active{
     border-top: 0;
 }
 .frm_prev_page{
-	background: #17506d !important;
+    background: #17506d !important;
     font-family: "Nunito", Sans-serif;
     font-weight: 900 !important;
     text-transform: uppercase;
@@ -430,23 +457,23 @@ span.swiper-pagination-bullet.swiper-pagination-bullet-active{
     border-style: solid;
     border-width: 2px 2px 2px 2px !important;
     border-color: #17506d !important;
-        font-size: 18px;
+    font-size: 18px;
 }
  .frm_prev_page:hover,.frm_prev_page:focus{
 	background: transparent !important;
 	border-width: 2px !important;
-    border-color: #17506d !important;
+    	border-color: #17506d !important;
 	color:#17506d !important;
-	 outline: 0px dotted  !important;
-    outline: 0px auto -webkit-focus-ring-color  !important;
+	outline: 0px dotted  !important;
+    	outline: 0px auto -webkit-focus-ring-color  !important;
 }
  .frm_button_submit:hover, .frm_button_submit:focus{
-		background: transparent !important;
+	background: transparent !important;
 	border-width: 2px !important;
-    border-color: #C3286A !important;
+    	border-color: #C3286A !important;
 	color:#C3286A !important;
-	 outline: 0px dotted  !important;
-    outline: 0px auto -webkit-focus-ring-color  !important;
+	outline: 0px dotted  !important;
+    	outline: 0px auto -webkit-focus-ring-color  !important;
 }
 .frm_style_formidable-style.with_frm_style .frm_icon_font.frm_minus_icon:before{
 	color:#17506d !important;
@@ -459,7 +486,7 @@ span.swiper-pagination-bullet.swiper-pagination-bullet-active{
 }
 
 .frm_button_submit{
-	background: #C3286A !important;
+    background: #C3286A !important;
     font-family: "Nunito", Sans-serif;
     font-weight: 900 !important;
     text-transform: uppercase;
@@ -468,28 +495,28 @@ span.swiper-pagination-bullet.swiper-pagination-bullet-active{
     border-style: solid;
     border-width: 2px 2px 2px 2px !important;
     border-color: #C3286A !important;
-        font-size: 18px;
+    font-size: 18px;
 }
 .frm_dropzone.frm_single_upload {
     max-width: 100%;
 }
 .with_frm_style input[type=text], .with_frm_style input[type=password], .with_frm_style input[type=email], .with_frm_style input[type=number], .with_frm_style input[type=url], .with_frm_style input[type=tel], .with_frm_style input[type=phone], .with_frm_style input[type=search], .with_frm_style select, .with_frm_style textarea, .frm_form_fields_style, .with_frm_style .frm_scroll_box .frm_opt_container, .frm_form_fields_active_style, .frm_form_fields_error_style, .with_frm_style .frm-card-element.StripeElement, .with_frm_style .chosen-container-multi .chosen-choices, .with_frm_style .chosen-container-single .chosen-single{
 	background-color: #E6F8FA;
-    border-width: 0px 0px 0px 0px;
-    border-radius: 100px 100px 100px 100px;
-	    font-family: "Nunito", Sans-serif;
-line-height: 1.4;
+    	border-width: 0px 0px 0px 0px;
+    	border-radius: 100px 100px 100px 100px;
+	font-family: "Nunito", Sans-serif;
+	line-height: 1.4;
 	    padding: .75rem 1rem;
 }
 .frm_style_formidable-style.with_frm_style .form-field input:not([type=file]):focus, .frm_style_formidable-style.with_frm_style select:focus, .frm_style_formidable-style.with_frm_style textarea:focus, .frm_style_formidable-style.with_frm_style .frm_focus_field input[type=text], .frm_style_formidable-style.with_frm_style .frm_focus_field input[type=password], .frm_style_formidable-style.with_frm_style .frm_focus_field input[type=email], .frm_style_formidable-style.with_frm_style .frm_focus_field input[type=number], .frm_style_formidable-style.with_frm_style .frm_focus_field input[type=url], .frm_style_formidable-style.with_frm_style .frm_focus_field input[type=tel], .frm_style_formidable-style.with_frm_style .frm_focus_field input[type=search], .frm_form_fields_active_style, .frm_style_formidable-style.with_frm_style .frm_focus_field .frm-card-element.StripeElement, .frm_style_formidable-style.with_frm_style .chosen-container-single.chosen-container-active .chosen-single, .frm_style_formidable-style.with_frm_style .chosen-container-active .chosen-choices {
-  background-color: #E6F8FA !important;
-    border-width: 0px;
-    border-radius: 100px 100px 100px 100px;
-	    font-family: "Nunito", Sans-serif;
-line-height: 1.4;
-	    padding: .75rem 1rem;  
+  	background-color: #E6F8FA !important;
+    	border-width: 0px;
+    	border-radius: 100px 100px 100px 100px;
+	font-family: "Nunito", Sans-serif;
+	line-height: 1.4;
+	padding: .75rem 1rem;  
 	background-color: #ffffff;
-    border-color: #66afe9;
+    	border-color: #66afe9;
     box-shadow: inset 0 0 0 1px rgb(0 0 0 / 10%);
 }
 .with_frm_style .frm_primary_label, frm_description{
@@ -498,7 +525,7 @@ line-height: 1.4;
 	margin-bottom:10px;
 }
 .with_frm_style input[type=text], .with_frm_style input[type=password], .with_frm_style input[type=email], .with_frm_style input[type=number], .with_frm_style input[type=url], .with_frm_style input[type=tel], .with_frm_style input[type=file], .with_frm_style input[type=search], .with_frm_style select, .with_frm_style .frm-card-element.StripeElement {
-    height: auto !important;
+    	height: auto !important;
 }
 
 /*Media Queries*/
@@ -515,18 +542,20 @@ line-height: 1.4;
 }
 @media (max-width: 767px){
 	.elementor-section.elementor-section-boxed > .elementor-container {
-    max-width: 90%;
+    	max-width: 90%;
 }
-	/*Two Buttons*/
-	.elementor-5 .elementor-element.elementor-global-89 a.elementor-button, .elementor-5 .elementor-element.elementor-global-89 .elementor-button-two, .elementor-73 .elementor-element.elementor-element-e8af058 a.elementor-button, .elementor-73 .elementor-element.elementor-element-e8af058 .elementor-button-two, .elementor-340 .elementor-element.elementor-element-99c3849 a.elementor-button, .elementor-340 .elementor-element.elementor-element-99c3849 .elementor-button-two {
+	
+/*Two Buttons*/
+.elementor-5 .elementor-element.elementor-global-89 a.elementor-button, .elementor-5 .elementor-element.elementor-global-89 .elementor-button-two, .elementor-73 .elementor-element.elementor-element-e8af058 a.elementor-button, .elementor-73 .elementor-element.elementor-element-e8af058 .elementor-button-two, .elementor-340 .elementor-element.elementor-element-99c3849 a.elementor-button, .elementor-340 .elementor-element.elementor-element-99c3849 .elementor-button-two {
     margin-bottom: 10px;
-}
+	}
 	
 	.gradient-title-left.elementor-widget.elementor-widget-heading:before,.gradient-title-left-right.elementor-widget.elementor-widget-heading:before, .gradient-title-left-right.elementor-widget.elementor-widget-heading:after,.gradient-testimonials-left-right.elementor-widget.elementor-widget-heading:before,.gradient-testimonials-left-right.elementor-widget.elementor-widget-heading:after, .gradient-title-left-white.elementor-widget.elementor-widget-heading:after{
 		display:none !important;
 		opacity:0;
 	}
-	/*Footer*/
+	
+/*Footer*/
 .elementor-nav-menu__align-left .elementor-nav-menu--layout-vertical>ul>li>a {
     -webkit-box-pack: center  !important;
     -ms-flex-pack: center  !important;
@@ -537,8 +566,8 @@ line-height: 1.4;
 		display:block;
 	}
 	.frm_dropzone.dz-clickable .dz-message, .frm_dropzone.dz-clickable .dz-message * {
-    white-space: normal;
-}
+    		white-space: normal;
+	}
 	#background-wrap{
 		display:none;
 	}
