@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './animate.css'; // Tell webpack that Button.js uses these styles
 
-class Button extends Component {
+class Bubble extends Component {
   render() { 
         <div id="background-wrap">
         <div class="bubble x1"></div>
